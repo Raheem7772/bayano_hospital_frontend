@@ -1,0 +1,47 @@
+
+.blog-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+    text-align: start;
+    height: 280px;
+    background-color: white;
+    color: black;
+    width: 350px;
+    
+  }
+ 
+.blog-container{
+    margin-top: 30px;
+    padding: 20px;
+    margin-bottom: 100px;
+  }
+  .blog-card-heading{
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .blog-card-para{
+    font-size: 16px;
+    color: #837a7a;
+  }
+  .blog-card-line{
+    border-top: 1px solid rgb(17, 0, 255);
+    width: 349px;
+    
+  }
+  .blog-card-description{
+    margin: 10px;
+    padding: 5px;
+  }
+  .blog-card-date .fa-calendar{
+    font-size: 20px;
+    color: #837a7a;
+    margin-right: 5px;
+  }
+  .blog-card-read .fa-right-long{
+    margin-top: 4px;
+    margin-right: 5px;
+  }
+  

@@ -1,0 +1,58 @@
+/* styles.css */
+.profile-card {
+    position: relative;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 40px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 160px;
+  }
+  
+  .profile-details {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    padding: 10px;
+    width: 50vh;
+    display: none;
+    font-size: 15px;
+    text-align: start;
+    
+  }
+  
+  .profile-card:hover .profile-details {
+    display: block;
+  }
+ .Profile-Avatar{
+    height: 250px;
+    width: 250px;
+ }
+ .profile-desc{
+    text-align: start;
+ }
+ .profile-desc-heading{
+    color: #807a7a;
+    font-size: 15px;
+ }
+ .profile-desc-name{
+    font-size: 18px;
+ }
+ 
+.profile-details {
+   position: fixed;
+   top: 150px;
+   left: 1230px; /* Initially hidden off-screen */
+   width: 350px;
+   height: 60vh;
+   background: white;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   transition: right 0.3s ease-in-out;
+ }
+ 
+ .profile-details.open {
+   left: 0; /* Slide in from the left */
+ }
+ 

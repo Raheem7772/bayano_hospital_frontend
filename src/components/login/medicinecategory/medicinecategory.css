@@ -1,0 +1,93 @@
+.medicine-bg{
+    background: rgb(250, 247, 247);
+}
+.medicine-category-add-button{
+    text-align: right;
+    color: white;
+    text-align: right;
+    margin-left: 950px;
+    background-color: green;
+    padding-left: 9px;
+    border-radius: 20px;
+    align-items: center;
+    width: 170px;
+    height: 30px;
+    font-weight: bold;
+    padding-bottom: 6px;
+    border: none;
+    padding-bottom: 10px;
+}
+.medicine-category-add-button-heading{
+    font-size: 12px;
+}
+.medicine-category-add-button-icon{
+    font-size: 12px;
+    padding-top: 10px;
+    margin-right: 10px;
+}
+.medicine-category-popup-card{
+    margin-top: 20px;
+    height: 300px;
+    width: 100%;
+    box-shadow: 2px 4px 8px 2px rgba(0.2,0.4,0,0.2);
+  transition: 0.3s;
+  background-color: white;
+  border-radius: 10px;
+}
+.medicine-category-popup-card-heading{
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-left: -200px;
+    font-family: sans-serif ,Arial, Helvetica, sans-serif;
+}
+.medicine-category-perpage-serach-container{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+}
+.medicine-category-perpage-container{
+    display: flex;
+    flex-direction: row;
+   margin: 8px;
+   padding: 4px;
+}
+.medicine-category-perpage-select-container-perpage{
+    margin-left: 10px;
+}
+.medicine-category-popup-card-form{
+    margin: 10px;
+    padding: 10px;
+}
+.form-control1{
+    margin-left: 40px;
+}
+.form-control2{
+    width: 200px;
+    margin-left: 5px;
+}
+.label-name{
+    color: grey;
+}
+.btn-success{
+    margin-left: -250px;
+    border-radius: 20px;
+}
+.sorting_1 {
+    text-align: start;
+  }
+.sorting1{
+    width: 700px;
+  }
+  .btn-edit{
+    margin: 0px;
+    padding: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 1px;
+  }
+  .btn-edit-1{
+    width: 40px;
+  }
+  .btn-edit-2{
+    width: 60px;
+  }

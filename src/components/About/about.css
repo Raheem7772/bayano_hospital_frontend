@@ -1,0 +1,47 @@
+.about-section-container{
+    height: 45vh;
+    
+}
+.about-section-image{
+    background-image: url('https://demo.creativeitem.com/bayanno/assets/frontend/default/images/img-15.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.about-section-heading{
+    color: white;
+    text-align: start;
+    margin-left:150px;
+    margin-top: 90px;
+}
+.about-section-home{
+    color: white;
+}
+.about-section-desc-container{
+    margin-top: 10px;
+    padding: 20px;
+}
+.about-section-desc-container-para{
+    width: 90vh;
+    text-align: start;
+    margin-left:450px;
+    margin-top: 20px;
+    color: rgb(119, 116, 116);
+    font-size: 15px;
+}
+.about-heading{
+    font-size:25px;
+}
+.about-description-section{
+    height: 56vh;
+}
+.about-description-section-para{
+    width: 90vh;
+    margin-left: 55vh;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.about-description-section-heading{
+    font-weight: 400;
+}

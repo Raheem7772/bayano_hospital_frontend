@@ -1,0 +1,90 @@
+.bayano-login-bg-container {
+    min-height: 100vh;
+  }
+  
+  .bayanno-login-height {
+    min-height: inherit;
+    
+  }
+  
+  .bayano-login-container {
+    box-shadow: 5px 0px 15px rgba(0, 0, 0, 0.2);
+    background-color: #0d1428;
+    min-height: 100%;
+    padding: 14px;
+    padding-top: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: -29px;
+  }
+  
+  .hospital-logo {
+    width: 70px;
+    margin-top: 11px;
+    margin-bottom: 22px;
+  }
+  
+  .bayanno-login-hospital-name {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 11px;
+  }
+  
+  
+ 
+.bayanno-login-page-image {
+    background-image: url("https://bel.uq.edu.au/files/22883/shutterstock_medical_ipad_187139279.jpg");
+    
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 100%;
+    
+  }
+  .form-container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 50%;
+}
+
+.input-container{
+    display: flex;
+    flex-direction: column;
+}
+.label{
+    color: #f1f5f9;
+    font-family: roboto;
+    margin: 5px;
+    font-size: 14px;
+    text-align: start;
+}
+.user-input{
+    color: #f1f5f9;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #b6c5ff;
+    background: transparent;
+    border-radius: 5px;
+    outline: none;
+}
+.login-button{
+    background-color: #6366f1;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #f1f5f9;
+}
+.error-msg{
+    color: red;
+    font-family: "Roboto";
+}
+.btn-off{
+    background-color: #535369;
+}

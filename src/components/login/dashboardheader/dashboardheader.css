@@ -1,0 +1,37 @@
+.bashboard-header{
+    margin-left: -20px;
+}
+.bashboard-header-name{
+    font-weight: 80;
+    font-size: 28px;
+}
+.bashboard-header-website-logout-container{
+    margin-left: 800px;
+}
+.bashboard-header-name-fa{
+    margin-left: -90px;
+}
+.bashboard-header-website{
+    margin-right: 10px;
+}
+.bashboard-header-logout{
+    margin-left: 10px;
+}
+.fa-right-from-bracket{
+    margin-left: 5px;
+    font-size: 10px;
+    padding-top: 6px;
+}
+.fa-firefox{
+    margin-right: 5px;
+    font-size: 10px;
+    padding-top: 6px;
+}
+.fa-solid-user{
+    margin-right: 5px;
+    font-size: 10px;
+    padding-top: 6px;
+}
+.website{
+    color: rgb(97, 97, 97);
+}

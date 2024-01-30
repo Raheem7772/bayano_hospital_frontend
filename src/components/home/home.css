@@ -1,0 +1,203 @@
+.d-block{
+    width: 100%;
+    height: 80vh;
+    opacity: 0.4;
+}
+.carousel-heading{
+    color: rgb(156, 55, 55);
+}
+.carousel-para{
+    color: rgb(4, 5, 5);
+}
+
+.carousel-caption {
+    position: absolute;
+    left:-400px;
+    
+ }
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: left;
+    height: 250px;
+    background-color: #007bff;
+    color: white;
+  }
+  .clearfix{
+    list-style-type: none;
+    display: flex;
+}
+.float-right{
+    margin-left: 20px;
+}
+  
+.container{
+    margin-top: -30px;
+  }
+  .fa{
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .Emergency-contact{
+    font-size: 28px;
+  }
+  .btn1 {
+    background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+    
+  }
+  
+  .btn1:hover {
+    background-color: white;
+  color: black;
+  }
+  
+.image-desc-container{
+    height: 50vh;
+    margin-top: 40px;
+    justify-content: center;
+}
+.Bayanno-image{
+    height: 40vh;
+    margin-left: 20px;
+}
+.Bayanno-description{
+    width: 60vh;
+    text-align: start;
+    padding: 25px;
+    margin-top: 30px;
+}
+.Bayanno-heading{
+    font-size: 22px;
+}
+
+.bayanno-home-services-container {
+  width: 100%;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  display: flex;
+  align-items: center;
+  background-color: #0087be;
+  position: relative;
+  z-index: 2;
+  height: 200px;
+  margin-top: -78px;
+}
+
+.bayanno-home-services-main-heading {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 16px;
+}
+
+.bayanno-home-services-description {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 600px;
+  text-align: center;
+  margin-left: 300px;
+}
+
+.container-sec {
+  position: relative;
+  top: -23px;
+  z-index: 0;
+}
+
+.bayanno-home-triangle-icon-services {
+  margin-top: 0px;
+  width: 70px;
+  height: 70px;
+  color: #0087be;
+}
+.bayano-worldclass-services-container{
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+}
+.bayano-worldclass-img-desc-card{
+  display: flex;
+  flex-direction: row; 
+  margin-bottom: 30px;
+}
+.bayano-worldclass-img{
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+}
+.bayano-worldclass-desc-card{
+  text-align: start;
+  width: 500px;
+}
+.bayano-worldclass-card{
+  margin: 20px;
+}
+.bayano-department-section-container{
+  height: 50vh;
+  background: #f1f1f1;
+  padding: 20px;
+}
+.bayano-department-section-card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 15%;
+  height:190px;
+  text-align:center;
+  padding-top:20px;
+  margin:10px;
+  background: white;
+  border-radius: 6px;
+}
+.bayano-department-section-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.bayano-department-section-card-image{
+  height: 100px;
+  width: 100px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+.Our-Awesome-Doctors-heading{
+ font-weight: 150;
+  padding: 10px;
+  
+}
+.Departments-heading{
+  font-weight: 300; 
+  font-size: 32px;
+}
+.Get-In-Touch-With-Our-Professionals-section{
+  height: 30vh;
+  background: #ffffff;
+  
+}
+.Get-In-Touch-With-Our-Professionals-heading{
+  font-weight: 200;
+  padding: 10px;
+  font-size: 30px;
+}
+.Our-Awesome-Doctors-heading-line{
+  border-top: 1px solid rgb(17, 0, 255);
+}
+.Get-In-Touch-With-Our-Professionals-button{
+  margin-top: 20px;
+  height: 60px;
+  font-size: 18px;
+  padding: 15px;
+}

@@ -1,0 +1,27 @@
+.payment-add-button{
+    text-align: right;
+    color: white;
+    text-align: center;
+    margin-left: 500px;
+    background-color: green;
+    padding-left: 9px;
+    border-radius: 20px;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    padding-bottom: 6px;
+    border: none;
+    padding-bottom: 10px;
+    margin-top: 50px;
+}
+.form-control1-payment-no{
+    margin-left: 12px;
+}
+.form-control1-payment-date{
+    margin-left: 22px;
+}
+.form-control1-payment-cvc{
+    margin-left: 72px;
+    margin-bottom: 10px;
+}
